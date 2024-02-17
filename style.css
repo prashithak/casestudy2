@@ -1,0 +1,38 @@
+.login {
+    background-image: url('img/joanna-kosinska-7ACuHoezUYk-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+  .lgn{
+    margin-top: 200px;
+    margin-left: 1000px;
+    margin-right:400px;
+     /* border: 1px solid black;  */
+    padding: 10px;
+
+}
+.btn{
+   margin-left: 200px; 
+
+}
+  .hbg
+{
+    background-image: url('img/cathryn-lavery-fMD_Cru6OTk-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}  
+.disabledlist{
+  pointer-events: none;
+  opacity: 0.6;
+}
+.table
+{
+  margin-top: 50px;
+  margin-left: 300px;
+  margin-right: 500px;
+}
+.table td{
+  padding: 5px;
+}
